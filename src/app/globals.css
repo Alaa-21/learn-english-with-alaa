@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+:root {
+  --color-void-indigo: #0f0f35;
+  --color-deep-space: #15163d;
+  --color-product-white: #ffffff;
+  --color-pure-ink: #0a0a0a;
+  --color-graphite: #191b1f;
+  --color-steel: #737373;
+  --color-charcoal: #262626;
+  --color-hairline: #e4e7eb;
+  --color-signal-blue: #408fed;
+  --color-plasma-violet: #3e1bc9;
+  --color-nebula-blue: #3655e5;
+  --color-cosmic-purple: #5a3f99;
+  --color-twilight-iris: #484b73;
+  --color-blush-mist: #ffe0e2;
+  --color-lavender-whisper: #f2dbf5;
+  --color-sunbeam: #fff0d8;
+  --color-polar-sky: #e0eafc;
+  --color-mint-glow: #e4f6f4;
+  --color-focus-beam: #539cf2;
+}
+
+body {
+  background-color: var(--color-void-indigo);
+  color: #ffffff;
+  font-family: var(--font-geist-sans), sans-serif;
+}
+
+/* Tideglass - Aurora / Void Indigo */
+.aura-bg {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  min-height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  background: radial-gradient(circle at 50% 20%, #15163d 0%, #0f0f35 70%);
+}
+
+.aura-layer-1 {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(90% 30% at 50% 35%, rgba(64,143,237,0.22) 0%, rgba(62,27,201,0.15) 45%, transparent 80%);
+  mix-blend-mode: screen;
+  filter: blur(140px);
+  transform: translateZ(0);
+  will-change: transform;
+  pointer-events: none;
+}
+
+.aura-layer-2 {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(172deg, transparent 35%, rgba(64,143,237,0.18) 46%, rgba(62,27,201,0.24) 53%, transparent 66%);
+  mix-blend-mode: screen;
+  filter: blur(120px);
+  opacity: 0.95;
+  transform: translateZ(0);
+  will-change: transform;
+  pointer-events: none;
+}
+
+.aura-layer-3 {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(8deg, transparent 38%, rgba(90,63,153,0.15) 49%, transparent 60%);
+  mix-blend-mode: soft-light;
+  filter: blur(100px);
+  opacity: 0.85;
+  transform: translateZ(0);
+  will-change: transform;
+  pointer-events: none;
+}

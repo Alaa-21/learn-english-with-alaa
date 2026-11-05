@@ -1,0 +1,42 @@
+{
+  "levels": [
+    {
+      "code": "A1",
+      "name_en": "Beginner",
+      "name_ar": "المبتدئ",
+      "units": [
+        {
+          "unit_id": "A1.1",
+          "title_en": "Introductions and Personal Details",
+          "title_ar": "التعريف بالنفس والتفاصيل الشخصية",
+          "lessons": [
+            {
+              "lesson_id": "A1.1.1",
+              "title_en": "Introducing Yourself & Subject Pronouns",
+              "title_ar": "التعريف بنفسك وضمائر الفاعل",
+              "grammar_rules": [
+                {
+                  "rule": "Present Simple of 'to be'",
+                  "syntax": "Subject + be (am/is/are) + complement",
+                  "explanation_ar": "يُستخدم فعل 'to be' لربط الفاعل بالهوية أو الصفة. يتغير الفعل حسب الفاعل.",
+                  "examples": [
+                    { "en": "I am a student.", "ar": "أنا طالب.", "vocab": ["I", "student"] },
+                    { "en": "You are my friend.", "ar": "أنت صديقي.", "vocab": ["You", "friend"] },
+                    { "en": "He is from Egypt.", "ar": "هو من مصر.", "vocab": ["He", "Egypt"] },
+                    { "en": "She is happy.", "ar": "هي سعيدة.", "vocab": ["She", "happy"] },
+                    { "en": "It is a big book.", "ar": "إنه كتاب كبير.", "vocab": ["It", "book", "big"] },
+                    { "en": "We are students.", "ar": "نحن طلاب.", "vocab": ["We", "students"] },
+                    { "en": "They are at home.", "ar": "هم في المنزل.", "vocab": ["They", "home"] },
+                    { "en": "I am not tired.", "ar": "أنا لست متعباً.", "vocab": ["I", "tired", "not"] },
+                    { "en": "Is he ready?", "ar": "هل هو مستعد؟", "vocab": ["He", "ready"] },
+                    { "en": "We are not students.", "ar": "نحن لسنا طلاباً.", "vocab": ["We", "students"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "curriculum": "Comprehensive English Grammar Syllabus (Complete CEFR Dataset)",
+  "compiled_by": "Dr. Geraldine Ann Foster (Derived from English Profile Data)",
+  "disclaimer": "This is for informational purposes only. AI responses may include mistakes.",
+  "levels": [
+    {
+      "level_code": "A1-A2",
+      "level_name": "Beginner / Elementary",
+      "units": [
+        {
+          "unit_id": "A1_A2_U01",
+          "unit_title": "Parts of Speech & Basic Modifiers (أجزاء الكلام والمعدلات الأساسية)",
+          "lessons": [
+            {
+              "lesson_id": "A1_A2_U01_L1",
+              "lesson_title": "Nouns & Articles (الأسماء وأدوات التعريف والتنكير)",
+              "syntax": "[ a/an + Singular Countable Noun ] | [ the + Specific Noun ] | [ No Article + Uncountable/Plural Nouns ]",
+              "arabic_explanation": "الأسماء تدل على أشخاص أو أماكن أو أشياء. نستخدم أدوات التنكير (a/an) قبل الأسماء المفردة النكرة المعدودة. نضع (an) إذا كان الاسم يبدأ بصوت متحرك (a, e, i, o, u) ونضع (a) مع بقية الأصوات الساكنة. أما أداة التعريف (the) فتُستخدم للإشارة إلى شيء معين ومحدد معروف مسبقاً لدى المستمع والقارئ. الأسماء غير المعدودة أو الجمع العام لا تأخذ أداة تنكير.",
+              "examples": [
+                {
+                  "english": "I saw a doctor yesterday.",
+                  "arabic": "رأيت طبيباً بالأمس (طبيب غير محدد)."
+                },
+                {
+                  "english": "She wants to eat an apple.",
+                  "arabic": "تريد أن تأكل تفاحة (تبدأ بصوت متحرك)."
+                },
+                {
+                  "english": "The book on the table is mine.",
+                  "arabic": "الكتاب الموجود على الطاولة لي (كتاب وطاولة محددين)."
+                },
+                {
+                  "english": "He lives in a big house.",
+                  "arabic": "يعيش في منزل كبير."
+                },
+                {
+                  "english": "An elephant is a huge animal.",
+                  "arabic": "الفيل حيوان ضخم."
+                },
+                {
+                  "english": "The sun rises in the east.",
+                  "arabic": "تشرق الشمس من الشرق (شيء فريد ومحدد)."
+                },
+                {
+                  "english": "I love listening to music.",
+                  "arabic": "أحب الاستماع إلى الموسيقى (اسم غير معدود بدون أداة)."
+                },
+                {
+                  "english": "Water is essential for life.",
+                  "arabic": "الماء ضروري للحياة."
+                },
+                {
+                  "english": "She bought a new dress and the dress is blue.",
+                  "arabic": "اشترت فستاناً جديداً والفستان أزرق (استخدمنا the في المرة الثانية لأنه أصبح معروفاً)."
+                },
+                {
+                  "english": "He is an honest man.",
+                  "arabic": "إنه رجل صادق (استخدمنا an لأن حرف h صامت وتبدأ بصوت متحرك)."
+                }
+              ]
+            },
+            {
+              "lesson_id": "A1_A2_U01_L2",
+              "lesson_title": "Prepositions of Place, Time, and Movement (حروف الجر والعبارات الجرّية)",
+              "syntax": "[ Preposition + Noun Phrase / Object Pronoun ]",
+              "arabic_explanation": "حروف الجر تربط الأسماء أو الضمائر بالجملة لتبين الزمان أو المكان أو الحركة. حروف الجر الأساسية هي (In, At, On). نستخدم (In) للمساحات المغلقة والفترات الزمنية الكبيرة كالشهور والسنوات. ونستخدم (On) للأسطح المفتوحة وأيام الأسبوع. ونستخدم (At) للنقاط المحددة والأوقات الدقيقة. أما حروف الحركة مثل (Into) فتعني الدخول إلى الداخل و(To) تحدد الوجهة.",
+              "examples": [
+                {
+                  "english": "The keys are on the kitchen table.",
+                  "arabic": "المفاتيح على طاولة المطبخ (مكان/سطح)."
+                },
+                {
+                  "english": "We will meet at 6 o'clock sharp.",
+                  "arabic": "سوف نلتقي عند الساعة السادسة تماماً (وقت محدد)."
+                },
+                {
+                  "english": "She lives in a beautiful apartment in Cairo.",
+                  "arabic": "هي تعيش في شقة جميلة في القاهرة (مساحة مغلقة ومدن)."
+                },
+                {
+                  "english": "He walked into the room quietly.",
+                  "arabic": "سار إلى داخل الغرفة بهدوء (حركة للداخل)."
+                },
+                {
+                  "english": "Our train leaves on Friday morning.",
+                  "arabic": "قطارنا يغادر صباح يوم الجمعة (أيام الأسبوع)."
+                },
+                {
+                  "english": "The cat is hiding under the big bed.",
+                  "arabic": "القطة تختبئ تحت السرير الكبير (موقع)."
+                },
+                {
+                  "english": "They walked along the river bank for an hour.",
+                  "arabic": "ساروا بمحاذاة ضفة النهر لمدة ساعة (حركة)."
+                },
+                {
+                  "english": "I got a wonderful gift from my close friend.",
+                  "arabic": "حصلت على هدية رائعة من صديقي المقرب (المصدر)."
+                },
+                {
+                  "english": "The painting hangs above the fireplace.",
+                  "arabic": "اللوحة معلقة فوق المدفأة (موقع مرتفع)."
+                },
+                {
+                  "english": "She arrived at the airport early this morning.",
+                  "arabic": "وصلت إلى المطار في وقت مبكر هذا الصباح (نقطة محددة)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit_id": "A1_A2_U02",
+          "unit_title": "Basic Sentence Structures & Tenses (تركيب الجملة والأزمنة الأساسية)",
+          "lessons": [
+            {
+              "lesson_id": "A1_A2_U02_L1",
+              "lesson_title": "Present Simple Tense (زمن المضارع البسيط)",
+              "syntax": "[ Subject (He/She/It) + Verb + s/es ] | [ Subject (I/You/We/They) + Verb (Infinitive) ]",
+              "arabic_explanation": "يُستخدم للتعبير عن الحقائق الثابتة، العادات اليومية المتكررة، أو الجداول الزمنية. مع ضمائر المفرد الغائب نضيف (s) أو (es) لنهاية الفعل، ومع ضمائر الجمع يظل الفعل في المصدر بدون أي إضافات. نستخدم do/does في النفي والسؤال.",
+              "examples": [
+                {
+                  "english": "The sun rises in the east.",
+                  "arabic": "تشرق الشمس من الشرق (حقيقة علمية ثابتة)."
+                },
+                {
+                  "english": "I drink coffee every single morning.",
+                  "arabic": "أنا أشرب القهوة كل صباح (عادة يومية)."
+                },
+                {
+                  "english": "She speaks three languages fluently.",
+                  "arabic": "هي تتحدث ثلاث لغات بطلاقة (أضفنا s للمفرد)."
+                },
+                {
+                  "english": "They live in Cairo.",
+                  "arabic": "هم يعيشون في القاهرة (حالة دائمة)."
+                },
+                {
+                  "english": "Water boils at 100 degrees Celsius.",
+                  "arabic": "يغلي الماء عند 100 درجة مئوية."
+                },
+                {
+                  "english": "He doesn't watch TV in the morning.",
+                  "arabic": "هو لا يشاهد التلفاز في الصباح (نفي المفرد)."
+                },
+                {
+                  "english": "Do you play football on weekends?",
+                  "arabic": "هل تلعب كرة القدم في عطلات نهاية الأسبوع؟"
+                },
+                {
+                  "english": "The train leaves at 9 PM tonight.",
+                  "arabic": "يغادر القطار الساعة 9 مساءً الليلة (جدول زمني)."
+                },
+                {
+                  "english": "Cats hate water.",
+                  "arabic": "القطط تكره الماء (حقيقة عامة)."
+                },
+                {
+                  "english": "My father works in a big bank.",
+                  "arabic": "والدي يعمل في بنك كبير."
+                }
+              ]
+            },
+            {
+              "lesson_id": "A1_A2_U02_L2",
+              "lesson_title": "Past Simple Tense (زمن الماضي البسيط)",
+              "syntax": "[ Subject + Verb-ed (Regular) ] | [ Subject + Irregular Past Form ]",
+              "arabic_explanation": "يُستخدم للتعبير عن حدث بدأ وانتهى تماماً في الماضي في وقت محدد مسبقاً. يتكون الفعل بإضافة (ed) للأفعال المنتظمة، بينما توجد أفعال غير منتظمة (شاذة) تُحفظ تصريفاتها كما هي (مثل go تتحول إلى went). نستخدم didn't للنفي مع إعادة الفعل للمصدر.",
+              "examples": [
+                {
+                  "english": "We visited the museum last week.",
+                  "arabic": "زرنا المتحف الأسبوع الماضي (فعل منتظم)."
+                },
+                {
+                  "english": "He went to London two years ago.",
+                  "arabic": "ذهب إلى لندن قبل عامين (فعل شاذ)."
+                },
+                {
+                  "english": "I finished my homework an hour ago.",
+                  "arabic": "أنهيت واجبي المنزلي قبل ساعة."
+                },
+                {
+                  "english": "They watched a scary movie last night.",
+                  "arabic": "شاهدوا فيلماً مرعباً الليلة الماضية."
+                },
+                {
+                  "english": "She bought a beautiful dress yesterday.",
+                  "arabic": "اشترت فستاناً جميلاً بالأمس (فعل شاذ)."
+                },
+                {
+                  "english": "I didn't see you at the party.",
+                  "arabic": "لم أرك في الحفلة (نفي في الماضي)."
+                },
+                {
+                  "english": "Did they enjoy the trip?",
+                  "arabic": "هل استمتعوا بالرحلة؟ (سؤال في الماضي)."
+                },
+                {
+                  "english": "He woke up early this morning.",
+                  "arabic": "استيقظ مبكراً هذا الصباح."
+                },
+                {
+                  "english": "We lived in New York in 2010.",
+                  "arabic": "عشنا في نيويورك عام 2010."
+                },
+                {
+                  "english": "The accident happened right here.",
+                  "arabic": "وقع الحادث هنا تماماً."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "B1-B2",
+      "level_name": "Intermediate / Upper Intermediate",
+      "units": [
+        {
+          "unit_id": "B1_B2_U01",
+          "unit_title": "The Three Foundational Conditional Systems (الأنظمة الثلاثة الأساسية للجمل الشرطية)",
+          "lessons": [
+            {
+              "lesson_id": "B1_B2_U01_L1",
+              "lesson_title": "First Conditional: Future Possibilities (الحالة الشرطية الأولى: الاحتمالات المستقبلية)",
+              "syntax": "If + [ Present Simple ], Subject + [ Will + Verb (Infinitive) ]",
+              "arabic_explanation": "تُستخدم للتعبير عن مواقف حقيقية، منطقية، وممكنة الحدوث جداً في المستقبل إذا تحقق الشرط في الحاضر. تتكون جملة الشرط من زمن المضارع البسيط، وجملة جواب الشرط من المستقبل البسيط باستخدام Will والمصدر. إذا بدأت الجملة بـ If نضع فاصلة بين الجملتين.",
+              "examples": [
+                {
+                  "english": "If it rains tomorrow, we will cancel the picnic.",
+                  "arabic": "إذا أمطرت غداً، سوف نلغي النزهة."
+                },
+                {
+                  "english": "If you study hard, you will pass the exam without problems.",
+                  "arabic": "إذا درست بجد، سوف تجتاز الامتحان دون مشاكل."
+                },
+                {
+                  "english": "We will miss the bus if we don't leave right now.",
+                  "arabic": "سيفوتنا الباص إذا لم نغادر الآن تماماً (لا توجد فاصلة لأن If في المنتصف)."
+                },
+                {
+                  "english": "If she saves enough money, she will buy a new car.",
+                  "arabic": "إذا ادخرت مالاً كافياً، سوف تشتري سيارة جديدة."
+                },
+                {
+                  "english": "If you cook dinner, I will wash the dishes.",
+                  "arabic": "إذا طبخت أنت العشاء، سوف أغسل أنا الأطباق."
+                },
+                {
+                  "english": "They will stay at home if the weather is bad.",
+                  "arabic": "سوف يبقون في المنزل إذا كان الطقس سيئاً."
+                },
+                {
+                  "english": "If you don't water these plants, they will die.",
+                  "arabic": "إذا لم تسقِ هذه النباتات، فسوف تموت."
+                },
+                {
+                  "english": "If he calls me, I will tell him the news.",
+                  "arabic": "إذا اتصل بي، سوف أخبره بالأخبار."
+                },
+                {
+                  "english": "You can get a discount if you use this coupon.",
+                  "arabic": "يمكنك الحصول على خصم إذا استخدمت هذا الكوبون (استخدام can كبديل لـ will)."
+                },
+                {
+                  "english": "If we hurry up, we will arrive on time.",
+                  "arabic": "إذا أسرعنا، سوف نصل في الوقت المحدد."
+                }
+              ]
+            },
+            {
+              "lesson_id": "B1_B2_U01_L2",
+              "lesson_title": "Second Conditional: Hypothetical Situations (الحالة الشرطية الثانية: المواقف الافتراضية)",
+              "syntax": "If + [ Past Simple ], Subject + [ Would + Verb (Infinitive) ]",
+              "arabic_explanation": "تُستخدم للتعبير عن مواقف خيالية، افتراضية، أو تمنيات غير واقعية ومستحيلة الحدوث في الوقت الحالي (الواقع الحالي عكس الجملة تماماً). تتكون جملة الشرط من الماضي البسيط، وجواب الشرط من [Would + المصدر]. نستخدم قواعدياً ورسمياً الفعل (Were) مع جميع الضمائر بلا استثناء (مثل If I were you لتقديم النصيحة).",
+              "examples": [
+                {
+                  "english": "If I won the lottery, I would buy a huge mansion.",
+                  "arabic": "لو فزت باليانصيب، لكنت اشتريت قصراً ضخماً (الواقع: أنا لم أفت ولست غنياً)."
+                },
+                {
+                  "english": "If I were you, I would accept that job offer immediately.",
+                  "arabic": "لو كنت مكانك، لكنت قبلت عرض العمل هذا فوراً (نصيحة افتراضية)."
+                },
+                {
+                  "english": "He would travel around the world if he had more free time.",
+                  "arabic": "كان سيسافر حول العالم لو كان لديه المزيد من وقت الفراغ."
+                },
+                {
+                  "english": "If she knew his phone number, she would call him right now.",
+                  "arabic": "لو كانت تعرف رقم هاتفه، لكانت اتصلت به الآن."
+                },
+                {
+                  "english": "If it were not raining, we could play tennis outside.",
+                  "arabic": "لو لم تكن تمطر الآن، لكان بمقدورنا لعب التنس في الخارج (استخدمنا could للمقدرة الافتراضية)."
+                },
+                {
+                  "english": "They would buy a car if they lived in the countryside.",
+                  "arabic": "كانوا سيشترون سيارة لو كانوا يعيشون في الريف."
+                },
+                {
+                  "english": "If he were taller, he might join the basketball team.",
+                  "arabic": "لو كان أكثر طولاً، لربما انضم إلى فريق كرة السلة."
+                },
+                {
+                  "english": "I would help you with your homework if I understood it myself.",
+                  "arabic": "كنت سأساعدك في واجبك المنزلي لو كنت أفهمه أنا نفسي."
+                },
+                {
+                  "english": "If animals could talk, they would tell us interesting stories.",
+                  "arabic": "لو كانت الحيوانات تستطيع الكلام، لكانت أخبرتنا بقصص مثيرة."
+                },
+                {
+                  "english": "We wouldn't have to walk if we owned a bicycle.",
+                  "arabic": "لما كان يتعين علينا المشي لو كنا نملك دراجة."
+                }
+              ]
+            },
+            {
+              "lesson_id": "B1_B2_U01_L3",
+              "lesson_title": "Third Conditional: Past Regrets (الحالة الشرطية الثالثة: الندم والمواقف المستحيلة في الماضي)",
+              "syntax": "If + [ Past Perfect (Had + P.P.) ], Subject + [ Would have + Verb (Third Form / P.P.) ]",
+              "arabic_explanation": "تُستخدم للحديث عن مواقف افتراضية تماماً في الماضي. هذه الحالة مستحيلة الحدوث قطعاً لأن الماضي انتهى ولا يمكن تغييره، وتُستخدم للتعبير عن الندم الشديد أو توجيه الانتقاد لحدث وقع بالفعل وتمني عكسه. تتكون جملة الشرط من الماضي التام (Had + التصريف الثالث)، وجواب الشرط من [Would have + التصريف الثالث].",
+              "examples": [
+                {
+                  "english": "If you had invited me, I would have attended the party.",
+                  "arabic": "لو كنت قد دعوتني، لكنت قد حضرت الحفلة (في الواقع: لم تدعني ولم أحضر)."
+                },
+                {
+                  "english": "If we had left earlier, we wouldn't have missed our flight.",
+                  "arabic": "لو أننا غادرنا مبكراً أكثر، لما كنا فوتنا رحلتنا الجوية (ندم على ما فات)."
+                },
+                {
+                  "english": "If the driver had stopped at the red light, the accident wouldn't have happened.",
+                  "arabic": "لو كان السائق قد توقف عند الإشارة الحمراء، لما كان الحادث قد وقع."
+                },
+                {
+                  "english": "She would have passed the exam if she had studied harder last week.",
+                  "arabic": "كانت ستجتاز الامتحان لو أنها درست بجدية أكبر الأسبوع الماضي."
+                },
+                {
+                  "english": "If I had known you were in the hospital, I would have visited you.",
+                  "arabic": "لو كنت علمت أنك في المستشفى، لكنت قد زرتك."
+                },
+                {
+                  "english": "We could have won the match if our best player hadn't been injured.",
+                  "arabic": "كان بإمكاننا الفوز بالمباراة لو لم يُصب لاعبنا الأفضل."
+                },
+                {
+                  "english": "If it hadn't rained so heavily, we would have gone to the beach.",
+                  "arabic": "لو لم تمطر بغزارة شديدة، لكنا قد ذهبنا إلى الشاطئ."
+                },
+                {
+                  "english": "He might have found his keys if he had checked his jacket pocket.",
+                  "arabic": "لربما كان قد وجد مفاتيحه لو أنه تفقد جيب سترته."
+                },
+                {
+                  "english": "If the company had invested in new technology, it wouldn't have gone bankrupt.",
+                  "arabic": "لو كانت الشركة قد استثمرت في التكنولوجيا الجديدة، لما كانت قد أفلست."
+                },
+                {
+                  "english": "If you had followed my advice, you would have avoided this whole mess.",
+                  "arabic": "لو كنت قد اتبعت نصيحتي، لكنت قد تجنبت هذه الفوضى بأكملها."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit_id": "B1_B2_U02",
+          "unit_title": "Emphatic Structures & Inversions (صيغ التوكيد والقلب البلاغي)",
+          "lessons": [
+            {
+              "lesson_id": "B1_B2_U02_L1",
+              "lesson_title": "Inversion after Negative Adverbs (قلب ترتيب الجملة للتوكيد)",
+              "syntax": "[ Negative Adverb ] + [ Auxiliary Verb ] + [ Subject ] + [ Main Verb ]",
+              "arabic_explanation": "أسلوب بلاغي رسمي ومتقدم يُستخدم في الكتابة الأكاديمية لإعطاء توكيد درامي وشديد على معنى الجملة. نقوم بقلب الترتيب المعتاد للجملة بتقديم الفعل المساعد على الفاعل عندما تبدأ الجملة بظروف سلبية تفيد النفي أو الندرة الشديدة مثل (Never, Rarely, Seldom, Not only, Under no circumstances). إذا لم يكن بالجملة فعل مساعد، نستخدم (do, does, did).",
+              "examples": [
+                {
+                  "english": "Never had I seen such a beautiful view before.",
+                  "arabic": "لم أشهد قط في حياتي مثل هذا المنظر الجميل من قبل (تم تقديم had على الفاعل I)."
+                },
+                {
+                  "english": "Not only did she pass, but she also scored the highest mark.",
+                  "arabic": "لم تكتفِ بالنجاح فحسب، بل حصلت أيضاً على أعلى درجة (استخدمنا did للماضي قبل الفاعل)."
+                },
+                {
+                  "english": "Rarely do we witness such incredible acts of kindness.",
+                  "arabic": "نادراً ما نشهد مثل هذه الأفعال الرائعة من اللطف."
+                },
+                {
+                  "english": "Under no circumstances should you leave your post.",
+                  "arabic": "تحت أي ظرف من الظروف لا ينبغي عليك مغادرة موقعك (تقديم should على you)."
+                },
+                {
+                  "english": "Seldom does he talk about his achievements in public.",
+                  "arabic": "نادراً جداً ما يتحدث عن إنجازاته علناً (استخدمنا does للمضارع المفرد)."
+                },
+                {
+                  "english": "Hardly had I stepped out of the house when it started to rain.",
+                  "arabic": "بالكاد خطوت خارج المنزل حتى بدأت تمطر بغزارة."
+                },
+                {
+                  "english": "Little did they know that the surprise party was for them.",
+                  "arabic": "لم يعلموا إلا القليل جداً أن حفلة المفاجأة كانت من أجلهم."
+                },
+                {
+                  "english": "Scarcely had the movie begun when the power went out.",
+                  "arabic": "بالكاد بدأ الفيلم حتى انقطع التيار الكهربائي."
+                },
+                {
+                  "english": "Only after completing the test did he realize his mistake.",
+                  "arabic": "فقط بعد إكمال الاختبار أدرك خطأه."
+                },
+                {
+                  "english": "No sooner had he signed the contract than he regretted it.",
+                  "arabic": "ما إن وقع العقد حتى ندم عليه فوراً."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "C1-C2",
+      "level_name": "Advanced / Proficient",
+      "units": [
+        {
+          "unit_id": "C1_C2_U01",
+          "unit_title": "High-Level Structural Transformations (التحويلات الهيكلية العالية للمحترفين)",
+          "lessons": [
+            {
+              "lesson_id": "C1_C2_U01_L1",
+              "lesson_title": "Advanced Conditional Inversions (قلب الجمل الشرطية وحذف If)",
+              "syntax": "[ Should/Were/Had ] + [ Subject ] + [ Rest of Clause ]",
+              "arabic_explanation": "في الأسلوب الأكاديمي والخطاب الرسمي الفاخر، يتم حذف أداة الشرط (If) تماماً والاستعاضة عنها بقلب ترتيب الجملة ليعطي إيجازاً وبلاغة لغوية. في الحالة الأولى نضع (Should) مكان If والمصدر دائماً. وفي الحالة الثانية نضع (Were) قبل الفاعل وإذا كان هناك فعل آخر نستخدم [Were + Subject + to + Infinitive]. وفي الحالة الثالثة نقدم الفعل المساعد (Had) على الفاعل ونحذف If.",
+              "examples": [
+                {
+                  "english": "Had I known about the issue, I would have fixed it immediately.",
+                  "arabic": "لو كنت علمت بالمشكلة، لكنت أصلحتها على الفور (أصلها: If I had known)."
+                },
+                {
+                  "english": "Should you require further assistance, do not hesitate to contact us.",
+                  "arabic": "إذا تطلّب الأمر أي مساعدة إضافية، فلا تتردد في الاتصال بنا (أصلها: If you should require)."
+                },
+                {
+                  "english": "Were he to win the election, he would implement massive reforms.",
+                  "arabic": "لو قُدّر له الفوز بالانتخابات، لقام بتنفيذ إصلاحات هائلة (أصلها: If he won)."
+                },
+                {
+                  "english": "Had we not missed the train, we would be in London by now.",
+                  "arabic": "لو لم يفتنا القطار، لكنا في لندن الآن (صيغة قلب شرطي منفي)."
+                },
+                {
+                  "english": "Should anyone call for me, please tell them I will return shortly.",
+                  "arabic": "إذا اتصل بي أي شخص، أخبره من فضلك أنني سأعود قريباً."
+                },
+                {
+                  "english": "Were I in your position, I would thoroughly investigate the terms.",
+                  "arabic": "لو كنت في مكانك، لفتشت الشروط بدقة (أصلها: If I were in your position)."
+                },
+                {
+                  "english": "Had the company invested earlier, it would have survived.",
+                  "arabic": "لو كانت الشركة قد استثمرت مبكراً، لكانت قد نجت من الإفلاس."
+                },
+                {
+                  "english": "Should the weather conditions deteriorate, the flight will be canceled.",
+                  "arabic": "في حال تدهور الأحوال الجوية، سوف يتم إلغاء الرحلة بالكامل."
+                },
+                {
+                  "english": "Were they to discover the truth, it would ruin their plans entirely.",
+                  "arabic": "لو اكتشفوا الحقيقة، لدمر ذلك خططهم تماماً."
+                },
+                {
+                  "english": "Had you followed my advice, you would have avoided this complex situation.",
+                  "arabic": "لو كنت قد اتبعت نصيحتي، لكنت قد تجنبت هذا الموقف المعقد."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

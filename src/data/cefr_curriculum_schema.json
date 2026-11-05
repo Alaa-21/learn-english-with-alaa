@@ -1,0 +1,276 @@
+{
+  "framework": "CEFR",
+  "language": "English",
+  "description": "Comprehensive Hierarchical Curriculum Schema across A1-C2 Levels with detailed grammar, units, and communicative functional objectives.",
+  "levels": [
+    {
+      "level": "A1",
+      "alias": "Breakthrough / Beginner",
+      "global_scale_descriptor": "Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type.",
+      "units": [
+        {
+          "unit_id": "A1.1",
+          "title": "Introductions and Personal Details",
+          "functional_objectives": [
+            "Introduce oneself and others",
+            "Ask and answer questions about personal details (place of residence, people known, things owned)"
+          ],
+          "grammar": [
+            "Present simple of 'to be'",
+            "Subject pronouns (I, you, he, she, it, we, they)",
+            "Possessive adjectives (my, your, his, her, its, our, their)",
+            "Question words (What, Who, Where, How old)"
+          ]
+        },
+        {
+          "unit_id": "A1.2",
+          "title": "Everyday Life and Routines",
+          "functional_objectives": [
+            "Describe daily habits and routines",
+            "State times, days of the week, and dates"
+          ],
+          "grammar": [
+            "Present simple tense (affirmative, negative, interrogative)",
+            "Adverbs of frequency (always, sometimes, never)",
+            "Prepositions of time (in, on, at)",
+            "Articles: definite (the) and indefinite (a/an)"
+          ]
+        },
+        {
+          "unit_id": "A1.3",
+          "title": "My World (Family, Home, and Objects)",
+          "functional_objectives": [
+            "Describe family members and relationship statuses",
+            "Identify and describe common household items and rooms"
+          ],
+          "grammar": [
+            "Possessive 's",
+            "Demonstrative pronouns (this, that, these, those)",
+            "There is / There are",
+            "Plural nouns (regular and common irregulars)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "A2",
+      "alias": "Waystage / Elementary",
+      "global_scale_descriptor": "Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment).",
+      "units": [
+        {
+          "unit_id": "A2.1",
+          "title": "Past Events and Life Experiences",
+          "functional_objectives": [
+            "Talk about past events, weekend activities, and historic events",
+            "Describe a simple biography or personal timeline"
+          ],
+          "grammar": [
+            "Past simple of 'to be' (was/were)",
+            "Past simple regular and irregular verbs",
+            "Past time expressions (yesterday, last week, ago)"
+          ]
+        },
+        {
+          "unit_id": "A2.2",
+          "title": "Shopping, Fashion, and Preferences",
+          "functional_objectives": [
+            "Make purchases in a shop, ask for prices, sizes, and colors",
+            "Compare items and express personal preferences"
+          ],
+          "grammar": [
+            "Comparative and superlative adjectives",
+            "Countable and uncountable nouns (much, many, a lot of)",
+            "Quantifiers (some, any)",
+            "Would like + infinitive"
+          ]
+        },
+        {
+          "unit_id": "A2.3",
+          "title": "Travel, Directions, and Future Intentions",
+          "functional_objectives": [
+            "Ask for and give directions in a city",
+            "Discuss immediate holiday plans or future arrangements"
+          ],
+          "grammar": [
+            "Imperatives for directions",
+            "Future with 'be going to'",
+            "Present continuous for future arrangements",
+            "Modals of ability and permission (can, could)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "B1",
+      "alias": "Threshold / Intermediate",
+      "global_scale_descriptor": "Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc.",
+      "units": [
+        {
+          "unit_id": "B1.1",
+          "title": "Life Changes and Experiences",
+          "functional_objectives": [
+            "Describe life events connecting the past to the present moment",
+            "Talk about open-ended duration of actions"
+          ],
+          "grammar": [
+            "Present perfect simple",
+            "Present perfect vs Past simple",
+            "For and since, ever and never, just, already, yet"
+          ]
+        },
+        {
+          "unit_id": "B1.2",
+          "title": "Rules, Advice, and Speculation",
+          "functional_objectives": [
+            "Express strong obligations and prohibitions in professional and social spaces",
+            "Give constructive advice and make predictions"
+          ],
+          "grammar": [
+            "Modals of obligation/prohibition (must, have to, mustn't, don't have to)",
+            "Modals of advice (should, ought to)",
+            "Zero and First conditional structures",
+            "Future predictions (will vs. might/may)"
+          ]
+        },
+        {
+          "unit_id": "B1.3",
+          "title": "Stories and Processes",
+          "functional_objectives": [
+            "Narrate a cohesive story or describe a historical chain of events",
+            "Explain a mechanical process or workflow where the actor is unknown"
+          ],
+          "grammar": [
+            "Past continuous vs Past simple",
+            "Past perfect simple",
+            "Passive voice (present simple and past simple profiles)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "B2",
+      "alias": "Vantage / Upper Intermediate",
+      "global_scale_descriptor": "Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in their field of specialization.",
+      "units": [
+        {
+          "unit_id": "B2.1",
+          "title": "Hypothetical Scenarios and Regrets",
+          "functional_objectives": [
+            "Speculate on imaginary present scenarios and evaluate alternatives",
+            "Express regret about past actions and decisions"
+          ],
+          "grammar": [
+            "Second conditional and Third conditional",
+            "Wish / If only clauses",
+            "Past modals of deduction (must have, might have, couldn't have)"
+          ]
+        },
+        {
+          "unit_id": "B2.2",
+          "title": "Reporting Actions and Advanced Passives",
+          "functional_objectives": [
+            "Report conversations, interviews, or professional statements with precise nuance",
+            "Describe systemic processes and formal societal changes"
+          ],
+          "grammar": [
+            "Reported speech with complex backshifts and reporting verbs (deny, insist, blame)",
+            "Passive voice across all standard tenses (including progressive and perfect)",
+            "Have/get something done (causative passive)"
+          ]
+        },
+        {
+          "unit_id": "B2.3",
+          "title": "Complex Relationships and Continuous Actions",
+          "functional_objectives": [
+            "Clarify intricate conditions under which an event can occur",
+            "Describe actions that will be ongoing or completed by a future benchmark"
+          ],
+          "grammar": [
+            "Relative clauses (defining and non-defining) using whom/whose",
+            "Future continuous and Future perfect",
+            "Conditionals without 'if' (provided that, as long as, unless)"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "C1",
+      "alias": "Effective Operational Proficiency / Advanced",
+      "global_scale_descriptor": "Can understand a wide range of demanding, longer texts, and recognize implicit meaning. Can express ideas fluently and spontaneously without much obvious searching for expressions.",
+      "units": [
+        {
+          "unit_id": "C1.1",
+          "title": "Emphasis, Focus, and Structural Inversion",
+          "functional_objectives": [
+            "Deliver high-impact, persuasive professional presentations",
+            "Shift structural focus to highlight critical data points or strategic ideas"
+          ],
+          "grammar": [
+            "Negative and restrictive inversion (e.g., 'Not only did they...', 'Seldom have we...')",
+            "Cleft sentences (It-clefts and Wh-clefts for emphasis)",
+            "Fronting and inversion with prepositional phrases"
+          ]
+        },
+        {
+          "unit_id": "C1.2",
+          "title": "Nuanced Speculation and Compound Conditions",
+          "functional_objectives": [
+            "Formulate complex hypotheses spanning across distinct timelines",
+            "Express speculative actions that were close to completion but interrupted"
+          ],
+          "grammar": [
+            "Mixed conditionals (Past/Present and Present/Past variations)",
+            "Advanced modals of past probability (e.g., 'should have been working')",
+            "Inverted conditional structures avoiding 'if' (e.g., 'Had we known...', 'Were they to...')"
+          ]
+        },
+        {
+          "unit_id": "C1.3",
+          "title": "Complex Discourse and Noun Phrases",
+          "functional_objectives": [
+            "Author precise academic or complex regulatory literature",
+            "Summarize massive data streams into tightly compacted professional text summaries"
+          ],
+          "grammar": [
+            "Advanced nominalization and complex noun phrases",
+            "Participle clauses (Present, Past, and Perfect participle clauses)",
+            "Sophisticated discourse markers for concession and cohesion"
+          ]
+        }
+      ]
+    },
+    {
+      "level": "C2",
+      "alias": "Mastery / Proficient",
+      "global_scale_descriptor": "Can understand with ease virtually everything heard or read. Can summarize information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation.",
+      "units": [
+        {
+          "unit_id": "C2.1",
+          "title": "Stylistic Formality and Subjunctive Nuance",
+          "functional_objectives": [
+            "Incorporate formal, legal, and highly institutional grammar variations into official text profiles",
+            "Assert crucial operational mandates, professional demands, and strategic imperatives with exact tone control"
+          ],
+          "grammar": [
+            "The formulaic and analytical subjunctive mood (e.g., 'It is imperative that he fulfill...', 'Be that as it may...')",
+            "Advanced modal blending and peripheral modal verbs (dare, need, ought)",
+            "Archaic and highly formal connective adverbs"
+          ]
+        },
+        {
+          "unit_id": "C2.2",
+          "title": "Rhetorical Elasticity and Metaphorical Grammar",
+          "functional_objectives": [
+            "Manipulate grammatical tense constraints to deliver precise rhetorical, literary, or ironic impact",
+            "Deploy structural syntax to convey emotional detours, understated humor, or profound emphasis"
+          ],
+          "grammar": [
+            "Rhetorical and metaphorical use of tenses (e.g., 'distancing present', past tenses for immediate future deadlines)",
+            "Asymmetrical parallelism and structural ellipsis",
+            "Advanced absolute constructions"
+          ]
+        }
+      ]
+    }
+  ]
+}

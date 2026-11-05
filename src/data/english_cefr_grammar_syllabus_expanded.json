@@ -1,0 +1,349 @@
+{
+  "curriculum": "Official CEFR English Grammar Syllabus (Extensively Expanded)",
+  "source": "English Profile data compiled by Dr. Geraldine Ann Foster",
+  "disclaimer": "This is for informational purposes only. For medical advice or diagnosis, consult a professional. AI responses may include mistakes.",
+  "levels": [
+    {
+      "level_code": "A1",
+      "level_name": "Beginner",
+      "units": [
+        {
+          "unit_id": "A1_U01",
+          "unit_title": "Adjectives & Adverbs (الصفات والظروف)",
+          "lessons": [
+            {
+              "lesson_id": "A1_U01_L1",
+              "lesson_title": "Adjective Position & Combining (مواقع الصفات وربطها)",
+              "arabic_explanation": "الصفة في اللغة الإنجليزية هي كلمة تصف الاسم وتمنحنا معلومات إضافية عنه (مثل اللون، الحجم، أو العمر). القاعدة الأساسية والمهمة جداً هي أن الصفة تأتي دائماً قبل الاسم الذي تصفه (Attributive Position)، على عكس اللغة العربية تماماً حيث تأتي الصفة بعد الموصوف. بالإضافة إلى ذلك، يمكن أن تأتي الصفة بعد أفعال الحالة والربط وعلى رأسها فعل يكون 'Verb to be' (مثل is, am, are, was, were) وتسمى هنا (Predicative Position). عندما نريد استخدام صفتين معاً لوصف شيء واحد بعد فعل الربط، فإننا نربط بينهما بشكل أساسي وبسيط باستخدام أداة العطف (and). تذكر دائماً أن الصفات في اللغة الإنجليزية ثابتة، أي أنها لا تُجمع ولا تؤنث ولا تذكر بناءً على الاسم، بل تظل كما هي تماماً سواء كان الاسم مفرداً أو جمعاً، مؤنثاً أو مذكراً.",
+              "examples": [
+                {
+                  "english": "She is my best friend.",
+                  "arabic": "إنها صديقتي المفضلة. (الصفة جاءت قبل الاسم)"
+                },
+                {
+                  "english": "The car is big and red.",
+                  "arabic": "السيارة كبيرة وحمراء. (تم ربط صفتين بعد فعل be)"
+                },
+                {
+                  "english": "He lives in a beautiful house.",
+                  "arabic": "هو يعيش في منزل جميل. (جاءت الصفة قبل الاسم المفرد)"
+                },
+                {
+                  "english": "They bought a new smartphone.",
+                  "arabic": "هم اشتروا هاتفاً ذكياً جديداً. (الصفة سبقت الموصوف)"
+                },
+                {
+                  "english": "The weather today is warm and sunny.",
+                  "arabic": "الطقس اليوم دافئ ومشمش. (صفتان مرتبطتان بـ and)"
+                },
+                {
+                  "english": "Those old books belong to my grandfather.",
+                  "arabic": "تلك الكتب القديمة تخص جدي. (الصفة لم تُجمع رغم أن الاسم جمع)"
+                },
+                {
+                  "english": "The water in the pool is very cold.",
+                  "arabic": "الماء في المسبح بارد جداً. (الصفة جاءت بعد فعل is)"
+                },
+                {
+                  "english": "She wore a wonderful blue dress.",
+                  "arabic": "ارتدت فستاناً أزرق رائعاً. (تتابع الصفات قبل الاسم)"
+                },
+                {
+                  "english": "The food looks fresh and delicious.",
+                  "arabic": "يبدو الطعام طازجاً ولذيذاً. (صفتان بعد فعل ربط)"
+                },
+                {
+                  "english": "An honest man always tells the truth.",
+                  "arabic": "الرجل الصادق يقول الحقيقة دائماً. (الصفة سبقت الاسم)"
+                }
+              ]
+            },
+            {
+              "lesson_id": "A1_U01_L2",
+              "lesson_title": "Modifying Adjectives with 'Very' (تعديل الصفات باستخدام Very)",
+              "arabic_explanation": "كلمة (very) تُصنف في القواعد كظرف درجة (Adverb of Degree). تُستخدم هذه الكلمة لتقوية وتكثيف معنى الصفة العادية، وهي تعني باللغة العربية 'جداً'. القاعدة الذهبية لاستخدامها هي وضعها مباشرة قبل الصفة التي نريد تعديلها وتكثيفها (very + adjective). لا يمكن وضعها بعد الصفة أو في نهاية الجملة بشكل منفصل. تساعدنا هذه الكلمة البسيطة على التعبير عن مدى قوة الشيء أو شدته دون الحاجة لحفظ صفات معقدة ومتقدمة في المستويات الأولى.",
+              "examples": [
+                {
+                  "english": "This is a very hot day.",
+                  "arabic": "هذا يوم حار جداً. (جاءت very قبل الصفة hot)"
+                },
+                {
+                  "english": "My teacher is very kind to everyone.",
+                  "arabic": "معلمي طيب جداً مع الجميع."
+                },
+                {
+                  "english": "The exam was very easy for the students.",
+                  "arabic": "كان الامتحان سهلاً جداً بالنسبة للطلاب."
+                },
+                {
+                  "english": "He drives a very expensive car.",
+                  "arabic": "هو يقود سيارة غالية الثمن جداً."
+                },
+                {
+                  "english": "This coffee is very bitter without sugar.",
+                  "arabic": "هذه القهوة مُرّة جداً بدون سكر."
+                },
+                {
+                  "english": "The room is very dark; please turn on the light.",
+                  "arabic": "الغرفة مظلمة جداً، من فضلك أشعل الضوء."
+                },
+                {
+                  "english": "She is a very talented young piano player.",
+                  "arabic": "إنها عازفة بيانو شابة وموهوبة جداً."
+                },
+                {
+                  "english": "The bus was very crowded this morning.",
+                  "arabic": "كان الحافلة مزدحمة جداً هذا الصباح."
+                },
+                {
+                  "english": "My grandfather is a very wise person.",
+                  "arabic": "جدي شخص حكيم جداً."
+                },
+                {
+                  "english": "Learning English is very important nowadays.",
+                  "arabic": "تعلم اللغة الإنجليزية مهم جداً في هذه الأيام."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "A2",
+      "level_name": "Elementary",
+      "units": [
+        {
+          "unit_id": "A2_U01",
+          "unit_title": "Adjectives, Comparatives & Superlatives (الصفات والمقارنة والتفضيل)",
+          "lessons": [
+            {
+              "lesson_id": "A2_U01_L1",
+              "lesson_title": "Comparative Adjectives (صفات المقارنة بين اثنين)",
+              "arabic_explanation": "نستخدم صيغة المقارنة (Comparative) عندما نريد المقارنة بين شيئين، شخصين، مجموعتين، أو مكانين لبيان أن أحدهما يزيد عن الآخر في صفة معينة. تنقسم الصفات في هذه القاعدة إلى نوعين: 1) الصفات القصيرة (Short Adjectives) وهي التي تتكون من مقطع صوتی واحد، وقاعدتها أن نضيف في نهايتها الحرفين (er) ثم نضع بعدها كلمة (than) التي تعني 'من'. إذا كانت الصفة تنتهي بـ y مسبوقة بحرف ساكن، نقلب الـ y إلى i ثم نضيف er (مثل happier). وإذا كانت تنتهي بحرف ساكن مسبوق بحرف متحرك واحد، نضاعف الحرف الساكن الأخير (مثل bigger). 2) الصفات الطويلة (Long Adjectives) وهي التي تتكون من مقطعين صوتيين أو أكثر، ولأنها طويلة لا نقوم بإضافة أحرف في نهايتها، بل نضع قبلها كلمة (more) وتعني 'أكثر' وتظل الصفة كما هي بدون أي تغيير، ونضع بعدها كلمة (than). هناك أيضاً صفات شاذة يجب حفظها كما هي ولا تطبق عليها هذه القواعد، مثل good التي تتحول في المقارنة إلى better، و bad التي تتحول إلى worse.",
+              "examples": [
+                {
+                  "english": "John is taller than David.",
+                  "arabic": "جون أطول من ديفيد. (صفة قصيرة مضاف لها er)"
+                },
+                {
+                  "english": "This smartphone is more expensive than that one.",
+                  "arabic": "هذا الهاتف الذكي أغلى سعراً من ذاك. (صفة طويلة مسبوقة بـ more)"
+                },
+                {
+                  "english": "My new house is bigger than my old apartment.",
+                  "arabic": "منزلي الجديد أكبر من شقتي القديمة. (تم مضاعفة حرف g)"
+                },
+                {
+                  "english": "Learning English is easier than learning Chinese.",
+                  "arabic": "تعلم الإنجليزية أسهل من تعلم الصينية. (قلبت y إلى i)"
+                },
+                {
+                  "english": "The weather today is better than it was yesterday.",
+                  "arabic": "الطقس اليوم أفضل مما كان عليه بالأمس. (صفة شاذة better)"
+                },
+                {
+                  "english": "A car is faster than a bicycle.",
+                  "arabic": "السيارة أسرع من الدراجة."
+                },
+                {
+                  "english": "Gold is more valuable than silver.",
+                  "arabic": "الذهب أكثر قيمة من الفضة."
+                },
+                {
+                  "english": "This movie is worse than the first part.",
+                  "arabic": "هذا الفيلم أسوأ من الجزء الأول. (صفة شاذة worse)"
+                },
+                {
+                  "english": "The streets are quieter at night than during the day.",
+                  "arabic": "الشوارع أكثر هدوءاً في الليل منها في النهار."
+                },
+                {
+                  "english": "Healthy food is more important than fast food.",
+                  "arabic": "الطعام الصحي أكثر أهمية من الوجبات السريعة."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "B1",
+      "level_name": "Intermediate",
+      "units": [
+        {
+          "unit_id": "B1_U01",
+          "unit_title": "Complex Conditionals (الجمل الشرطية المتقدمة)",
+          "lessons": [
+            {
+              "lesson_id": "B1_U01_L1",
+              "lesson_title": "First, Second, and Third Conditionals (الحالات الشرطية الثلاث)",
+              "arabic_explanation": "تُستخدم الجمل الشرطية للربط بين فعل الشرط (السبب) وجواب الشرط (النتيجة) باستخدام أداة الشرط (If) التي تعني 'إذا' أو 'لو'. يتناول هذا المستوى الحالات الثلاث الرئيسية: 1) الحالة الأولى (First Conditional): تعبر عن مواقف حقيقية وممكنة الحدوث جداً في المستقبل إذا تحقق الشرط. صياغتها: [If + مضارع بسيط] -> [will + مصدر الفعل]. 2) الحالة الثانية (Second Conditional): تعبر عن مواقف خيالية، افتراضية، أو مستحيلة الحدوث في الحاضر أو المستقبل (مثل تمني شيء غير واقعي). صياغتها: [If + ماضي بسيط] -> [would + مصدر الفعل]. تذكر أنه مع هذه الحالة يُفضل استخدام were مع جميع الضمائر بما في ذلك I و he و she (مثل If I were you). 3) الحالة الثالثة (Third Conditional): تعبر عن مواقف افتراضية تماماً في الماضي، وهي مستحيلة لأن الماضي انتهى ولا يمكن تغييره، وغالباً ما تُستخدم للتعبير عن الندم أو الانتقاد لشيء حدث وعكسه. صياغتها: [If + ماضي تام past perfect] -> [would have + تصريف ثالث P.P]. تذكر أنه إذا بدأت الجملة بـ If نضع فاصلة (,) بين العبارتين، أما إذا جاءت If في المنتصف فلا نضع فاصلة.",
+              "examples": [
+                {
+                  "english": "If it rains tomorrow, we will cancel the picnic.",
+                  "arabic": "إذا أمطرت غداً، سوف نلغي النزهة. (حالة أولى: مستقبل ممكن)"
+                },
+                {
+                  "english": "If I won the lottery, I would buy a mansion.",
+                  "arabic": "لو فزت باليانصيب، لكنت اشتريت قصراً ضخماً. (حالة ثانية: خيال في الحاضر)"
+                },
+                {
+                  "english": "If you had invited me, I would have attended the party.",
+                  "arabic": "لو كنت قد دعوتني، لكنت قد حضرت الحفلة. (حالة ثالثة: ندم على شيء مضى)"
+                },
+                {
+                  "english": "If she studies hard, she will pass the exam without problems.",
+                  "arabic": "إذا درست بجد، سوف تجتاز الامتحان دون مشاكل. (حالة أولى)"
+                },
+                {
+                  "english": "If I were you, I would accept that job offer immediately.",
+                  "arabic": "لو كنت مكانك, لكنت قبلت عرض العمل هذا فوراً. (حالة ثانية: نصيحة افتراضية)"
+                },
+                {
+                  "english": "If we had left earlier, we wouldn't have missed our flight.",
+                  "arabic": "لو أننا غادرنا مبكراً أكثر، لما كنا فوتنا رحلتنا الجوية. (حالة ثالثة: ندم)"
+                },
+                {
+                  "english": "If you don't water the plants, they will die.",
+                  "arabic": "إذا لم تسقِ النباتات، فسوف تموت. (حالة أولى)"
+                },
+                {
+                  "english": "He would travel around the world if he had more free time.",
+                  "arabic": "كان سيسافر حول العالم لو كان لديه المزيد من وقت الفراغ. (حالة ثانية: If في المنتصف)"
+                },
+                {
+                  "english": "If the driver had stopped at the red light, the accident wouldn't have happened.",
+                  "arabic": "لو كان السائق قد توقف عند الإشارة الحمراء، لما كان الحادث قد وقع. (حالة ثالثة)"
+                },
+                {
+                  "english": "We will go to the beach if the weather is warm this weekend.",
+                  "arabic": "سوف نذهب إلى الشاطئ إذا كان الطقس دافئاً في عطلة نهاية الأسبوع هذه. (حالة أولى)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "B2",
+      "level_name": "Upper Intermediate",
+      "units": [
+        {
+          "unit_id": "B2_U01",
+          "unit_title": "Emphatic Structures (صيغ التوكيد والبلاغة المتقدمة)",
+          "lessons": [
+            {
+              "lesson_id": "B2_U01_L1",
+              "lesson_title": "Inversion after Negative Adverbs (قلب ترتيب الجملة بعد ظروف النفي)",
+              "arabic_explanation": "قاعدة قلب ترتيب الجملة (Inversion) هي أسلوب بلاغي متقدم وجدّ رسمي يُستخدم في الكتابة الأكاديمية والخطابات القوية لإعطاء توكيد درامي وشديد على معنى الجملة. الفكرة الأساسية فيها تشبه تماماً طريقة تكوين السؤال: نقوم بقلب الترتيب المعتاد للجملة (الذي يبدأ بالفاعل ثم الفعل المساعد) ليصبح الفعل المساعد أولاً ثم يليه الفاعل مباشرة (Auxiliary + Subject). يحدث هذا التغيير حصرياً عندما نقرر بدء الجملة بظروف أو عبارات تحمل معنى النفي الصارم أو الندرة الشديدة مثل (Never, Rarely, Seldom, Hardly, Scarcely, Not only, Under no circumstances). إذا كانت الجملة في الأصل لا تحتوي على فعل مساعد (مثل زمن الماضي البسيط أو المضارع البسيط)، يجب علينا جلب الفعل المساعد المناسب (do, does, did) ووضعه قبل الفاعل مع إعادة الفعل الأساسي إلى المصدر. هذا الأسلوب يغير نبرة الكلام تماماً ويجعله يبدو بليغاً ومؤثراً.",
+              "examples": [
+                {
+                  "english": "Never had I seen such a beautiful view before.",
+                  "arabic": "لم أشهد قط في حياتي مثل هذا المنظر الجميل من قبل. (الأصل: I had never seen)"
+                },
+                {
+                  "english": "Not only did she pass, but she also scored the highest mark.",
+                  "arabic": "لم تكتفِ بالنجاح فحسب، بل حصلت أيضاً على أعلى درجة. (تم استخدام did للماضي)"
+                },
+                {
+                  "english": "Rarely do we witness such incredible acts of kindness.",
+                  "arabic": "نادراً ما نشهد مثل هذه الأفعال الرائعة من اللطف. (الأصل: We rarely witness)"
+                },
+                {
+                  "english": "Under no circumstances should you leave your post.",
+                  "arabic": "تحت أي ظرف من الظروف لا ينبغي عليك مغادرة موقعك. (تقديم should على you)"
+                },
+                {
+                  "english": "Seldom does he talk about his achievements in public.",
+                  "arabic": "نادراً جداً ما يتحدث عن إنجازاته علناً. (تم استخدام does لأن الفاعل he)"
+                },
+                {
+                  "english": "Hardly had I stepped out of the house when it started to rain heavily.",
+                  "arabic": "بالكاد خطوت خارج المنزل حتى بدأت تمطر بغزارة. (تقديم had على I)"
+                },
+                {
+                  "english": "Little did they know that the surprise party was for them.",
+                  "arabic": "لم يعلموا إلا القليل جداً أن حفلة المفاجأة كانت من أجلهم. (صيغة نفي بليغة)"
+                },
+                {
+                  "english": "Scarcely had the movie begun when the power went out.",
+                  "arabic": "بالكاد بدأ الفيلم حتى انقطع التيار الكهربائي."
+                },
+                {
+                  "english": "Only after completing the test did he realize his mistake.",
+                  "arabic": "فقط بعد إكمال الاختبار أدرك خطأه. (القلب جاء في العبارة الرئيسية الثانية)"
+                },
+                {
+                  "english": "No sooner had he signed the contract than he regretted it.",
+                  "arabic": "ما إن وقع العقد حتى ندم عليه فوراً. (تركيب متلازم متقدم للتوكيد)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level_code": "C1",
+      "level_name": "Advanced",
+      "units": [
+        {
+          "unit_id": "C1_U01",
+          "unit_title": "High-Level Structural Inversions (صيغ القلب البلاغي العالي)",
+          "lessons": [
+            {
+              "lesson_id": "C1_U01_L1",
+              "lesson_title": "Advanced Conditional Inversions (قلب الجمل الشرطية بدون If)",
+              "arabic_explanation": "في المستويات المتقدمة جداً والكتابة الرسمية والأكاديمية الفاخرة، يميل المتحدثون إلى التخلص من كلمة الشرط التقليدية (If) تماماً، والاستعاضة عنها بقلب ترتيب الجملة (Inversion) للوصول إلى أسلوب لغوي بليغ ومختصر. تطبق هذه القاعدة على ثلاث حالات محددة: 1) في الحالة الشرطية الأولى: نستخدم الفعل المساعد (Should) في بداية الجملة بدلاً من If متبوعاً بالفاعل ثم مصدر الفعل دائماً، لتعني 'إذا حدث بالصدفة أن...'. 2) في الحالة الشرطية الثانية: إذا كانت الجملة تحتوي على الفعل (Were)، نقوم بنقله إلى بداية الجملة قبل الفاعل وحذف If. أما إذا كانت الجملة تحتوي على فعل آخر، نستخدم التركيب [Were + الفاعل + to + المصدر]. 3) في الحالة الشرطية الثالثة: نقوم بنقل الفعل المساعد (Had) الخاص بالماضي التام إلى بداية الجملة تماماً ليسبق الفاعل مباشرة ونحذف أداة الشرط If. انتبه جيداً إلى أن معنى الجملة الشرطية يظل ثابتاً تماماً دون تغيير، لكن الصياغة تصبح رسمية جداً وتناسب المقالات والتقارير التنفيذية.",
+              "examples": [
+                {
+                  "english": "Had I known about the issue, I would have fixed it immediately.",
+                  "arabic": "لو كنت علمت بالمشكلة، لكنت أصلحتها على الفور. (الأصل: If I had known)"
+                },
+                {
+                  "english": "Should you require further assistance, do not hesitate to contact us.",
+                  "arabic": "إذا تطلّب الأمر أي مساعدة إضافية، فلا تتردد في الاتصال بنا. (الأصل: If you should require)"
+                },
+                {
+                  "english": "Were he to win the election, he would implement massive reforms.",
+                  "arabic": "لو قُدّر له الفوز بالانتخابات، لقام بتنفيذ إصلاحات هائلة. (الأصل: If he won)"
+                },
+                {
+                  "english": "Had we not missed the train, we would be in London by now.",
+                  "arabic": "لو لم يفتنا القطار، لكنا في لندن الآن. (صيغة قلب شرطي منفي)"
+                },
+                {
+                  "english": "Should anyone call for me, please tell them I will return shortly.",
+                  "arabic": "إذا اتصل بي أي شخص، أخبره من فضلك أنني سأعود قريباً."
+                },
+                {
+                  "english": "Were I in your position, I would thoroughly investigate the contract terms.",
+                  "arabic": "لو كنت في مكانك، لفتشت شروط العقد بدقة. (الأصل: If I were in your position)"
+                },
+                {
+                  "english": "Had the company invested in technology earlier, it would have survived.",
+                  "arabic": "لو كانت الشركة قد استثمرت في التكنولوجيا مبكراً، لكانت قد نجت من الإفلاس."
+                },
+                {
+                  "english": "Should the weather conditions deteriorate, the flight will be canceled.",
+                  "arabic": "في حال تدهور الأحوال الجوية، سوف يتم إلغاء الرحلة بالكامل."
+                },
+                {
+                  "english": "Were they to discover the truth, it would ruin their plans entirely.",
+                  "arabic": "لو اكتشفوا الحقيقة، لدمر ذلك خططهم تماماً."
+                },
+                {
+                  "english": "Had you followed my advice, you would have avoided this complex situation.",
+                  "arabic": "لو كنت قد اتبعت نصيحتي، لكنت قد تجنبت هذا الموقف المعقد."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

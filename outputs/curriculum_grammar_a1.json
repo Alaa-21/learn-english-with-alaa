@@ -1,0 +1,39 @@
+{
+  "level": "A1",
+  "grammar_rules": [
+    {
+      "rule": "Present Simple of 'to be'",
+      "syntax": "Subject + be (am/is/are) + complement/adjective",
+      "explanation_ar": "يُستخدم فعل 'to be' لربط الفاعل بالهوية أو الصفة أو المكان. يتغير الفعل حسب الفاعل (I am, He/She/It is, You/We/They are).",
+      "examples": [
+        { "en": "I am a teacher.", "ar": "أنا معلم.", "vocab": ["I", "teacher"] },
+        { "en": "You are my friend.", "ar": "أنت صديقي.", "vocab": ["You", "friend"] },
+        { "en": "He is from Egypt.", "ar": "هو من مصر.", "vocab": ["He", "Egypt"] },
+        { "en": "She is happy.", "ar": "هي سعيدة.", "vocab": ["She", "happy"] },
+        { "en": "It is a big book.", "ar": "إنه كتاب كبير.", "vocab": ["It", "book", "big"] },
+        { "en": "We are students.", "ar": "نحن طلاب.", "vocab": ["We", "students"] },
+        { "en": "They are at home.", "ar": "هم في المنزل.", "vocab": ["They", "home"] },
+        { "en": "I am not tired.", "ar": "أنا لست متعباً.", "vocab": ["I", "tired", "not"] },
+        { "en": "Is he ready?", "ar": "هل هو مستعد؟", "vocab": ["He", "ready"] },
+        { "en": "We are not students.", "ar": "نحن لسنا طلاباً.", "vocab": ["We", "students"] }
+      ]
+    },
+    {
+      "rule": "Subject Pronouns",
+      "syntax": "I / You / He / She / It / We / They + Verb",
+      "explanation_ar": "ضمائر الفاعل تحل محل الفاعل (الاسم) في الجملة لتجنب التكرار.",
+      "examples": [
+        { "en": "I learn English.", "ar": "أنا أتعلم الإنجليزية.", "vocab": ["I", "learn", "English"] },
+        { "en": "You speak well.", "ar": "أنت تتحدث جيداً.", "vocab": ["You", "speak", "well"] },
+        { "en": "He drinks water.", "ar": "هو يشرب الماء.", "vocab": ["He", "drinks", "water"] },
+        { "en": "She reads books.", "ar": "هي تقرأ كتباً.", "vocab": ["She", "reads", "books"] },
+        { "en": "It is blue.", "ar": "إنه أزرق.", "vocab": ["It", "blue"] },
+        { "en": "We study daily.", "ar": "نحن ندرس يومياً.", "vocab": ["We", "study", "daily"] },
+        { "en": "They live here.", "ar": "هم يعيشون هنا.", "vocab": ["They", "live", "here"] },
+        { "en": "I love my family.", "ar": "أنا أحب عائلتي.", "vocab": ["I", "love", "family"] },
+        { "en": "You are very kind.", "ar": "أنت طيب جداً.", "vocab": ["You", "kind"] },
+        { "en": "He plays football.", "ar": "هو يلعب كرة القدم.", "vocab": ["He", "plays", "football"] }
+      ]
+    }
+  ]
+}
