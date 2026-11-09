@@ -1,7 +1,7 @@
 "tsx";
 "use client";
 
-import React, { useRef, useState } from "react";
+import React, { useRef, useState, useMemo } from "react";
 import { VocabularyItem } from "@/data/curriculum";
 import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
@@ -13,6 +13,24 @@ interface VocabularyProps {
 export function Vocabulary({ vocabulary }: VocabularyProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [playingWord, setPlayingWord] = useState<string | null>(null);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [visibleCount, setVisibleCount] = useState(50);
+
+  const filteredVocabulary = useMemo(() => {
+    if (!searchTerm.trim()) return vocabulary;
+    const query = searchTerm.toLowerCase().trim();
+    return vocabulary.filter(
+      (item) =>
+        item.word.toLowerCase().includes(query) ||
+        item.translation.toLowerCase().includes(query) ||
+        item.exampleEn.toLowerCase().includes(query) ||
+        item.exampleAr.toLowerCase().includes(query)
+    );
+  }, [vocabulary, searchTerm]);
+
+  const displayedVocabulary = useMemo(() => {
+    return filteredVocabulary.slice(0, visibleCount);
+  }, [filteredVocabulary, visibleCount]);
 
   useGSAP(
     () => {
@@ -21,13 +39,13 @@ export function Vocabulary({ vocabulary }: VocabularyProps) {
 
       gsap.from(".vocab-item", {
         opacity: 0,
-        y: 20,
-        duration: 0.6,
-        stagger: 0.05,
+        y: 15,
+        duration: 0.4,
+        stagger: 0.02,
         ease: "power2.out",
       });
     },
-    { scope: containerRef }
+    { scope: containerRef, dependencies: [visibleCount, searchTerm] }
   );
 
   const speakWord = (word: string, e: React.MouseEvent) => {
@@ -67,16 +85,35 @@ export function Vocabulary({ vocabulary }: VocabularyProps) {
 
   return (
     <div ref={containerRef} className="bg-slate-900/90 backdrop-blur-md rounded-3xl p-8 border border-slate-800 shadow-xl">
-      <h2 className="text-2xl font-bold text-white mb-2">
-        Lesson Vocabulary / مفردات الدرس
-      </h2>
-      <p className="text-slate-300 text-sm mb-6">
-        Essential words and phrases introduced in this lesson with pronunciation and examples. Click the speaker icon to listen to pronunciation.
-      </p>
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6">
+        <div>
+          <h2 className="text-2xl font-bold text-white mb-1">
+            Lesson Vocabulary / مفردات الدرس
+          </h2>
+          <p className="text-slate-300 text-sm">
+            Showing {displayedVocabulary.length} of {filteredVocabulary.length} words ({vocabulary.length} total). Click the speaker icon to listen.
+          </p>
+        </div>
+
+        {/* Search Bar */}
+        <div className="w-full md:w-72">
+          <input
+            type="text"
+            value={searchTerm}
+            onChange={(e) => {
+              setSearchTerm(e.target.value);
+              setVisibleCount(50);
+            }}
+            placeholder="Search vocabulary..."
+            className="w-full px-4 py-2.5 rounded-xl bg-slate-950 border border-slate-800 text-white placeholder-slate-500 text-sm focus:outline-hidden focus:ring-2 focus:ring-teal-500"
+          />
+        </div>
+      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {vocabulary.map((item, idx) => {
+        {displayedVocabulary.map((item, idx) => {
           const isPlaying = playingWord === item.word;
+
           return (
             <div key={idx} className="vocab-item bg-slate-950/70 p-5 rounded-2xl border border-slate-800/80 relative group">
               <div className="flex items-center justify-between mb-2">
@@ -110,6 +147,17 @@ export function Vocabulary({ vocabulary }: VocabularyProps) {
           );
         })}
       </div>
+
+      {visibleCount < filteredVocabulary.length && (
+        <div className="mt-8 text-center">
+          <button
+            onClick={() => setVisibleCount((prev) => prev + 50)}
+            className="px-6 py-3 rounded-xl bg-teal-600 text-white font-semibold text-sm hover:bg-teal-500 transition-colors shadow-lg cursor-pointer"
+          >
+            Load More Words ({filteredVocabulary.length - visibleCount} remaining)
+          </button>
+        </div>
+      )}
     </div>
   );
 }

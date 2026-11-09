@@ -172,10 +172,16 @@ export default function Home() {
 
           <div className="flex items-center gap-3">
             <Link
-              href="#levels"
+              href="/login"
+              className="px-4 py-2 rounded-xl bg-slate-900 border border-slate-800 text-slate-200 hover:text-white hover:bg-slate-800 transition-colors text-sm font-medium"
+            >
+              Sign In
+            </Link>
+            <Link
+              href="/dashboard"
               className="hidden sm:inline-flex items-center justify-center px-4 py-2 rounded-xl bg-teal-600 text-white text-sm font-medium hover:bg-teal-500 transition-colors shadow-lg"
             >
-              {t.hero.startLearning}
+              Dashboard
             </Link>
 
             {/* Mobile menu button */}
@@ -219,6 +225,22 @@ export default function Home() {
             >
               {t.nav.levels}
             </Link>
+            <div className="pt-2 border-t border-slate-800 flex flex-col gap-2">
+              <Link
+                href="/login"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block text-center py-2.5 rounded-xl bg-slate-800 text-slate-200 font-medium text-sm"
+              >
+                Sign In
+              </Link>
+              <Link
+                href="/dashboard"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block text-center py-2.5 rounded-xl bg-teal-600 text-white font-medium text-sm"
+              >
+                Dashboard
+              </Link>
+            </div>
           </div>
         )}
       </header>
